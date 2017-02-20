@@ -1,1 +1,2 @@
 D:\Dokumente\Fächer\Proggen\Snake-Projekt\Snake-Projekt\bin\Debug\Snake-Projekt.exe.config
+C:\Users\Niklas Heckmann\Documents\GitHub\Snake_Project\Snake-Projekt\bin\Debug\Snake-Projekt.exe.config
